@@ -1,7 +1,7 @@
 # Web programming practice
 
 - Time: **Wednesday 16:00 - 17:30**
-- Location: **Southern Building 2.202 (PC 3)**
+- Location: **Southern Building 00.803 (Programming Language Laboratory)**
 - Teacher: **Erik Tűri**
 - Contact: ***turierik@inf.elte.hu*** (or maybe Teams)
     - any messages from students via **other platforms** (including but not limited to: Facebook, Messenger, Instagram, TikTok, Twitter, Discord, etc) **WILL BE DELETED WITHOUT READING!**
